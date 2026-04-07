@@ -1,12 +1,3 @@
----
-name: '🚀 プルリクエスト (Pull Request)'
-about: 変更内容の提案
-title: '[PR] '
-labels: enhancement
-assignees: ''
-
----
-
 ### 📝 概要
 
 ### 🔄 変更内容
